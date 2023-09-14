@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aws-iot-greengrass-component-kvs-webrtc
+  annotations:
+    github.com/project-slug: jamesenki/aws-iot-greengrass-component-kvs-webrtc
+spec:
+  type: other
+  lifecycle: unknown
